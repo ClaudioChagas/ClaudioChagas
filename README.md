@@ -2,7 +2,7 @@
 --> Meu nome é Claudio Chagas, e sou novo no mundo das tecnologias. São tantas possibilidades, mas sempre busco aprender coisas novas e continuar em constante crescimento pessoal e profissional, sem me perder de mim mesmo.
 Tenho conhecimentos em python, e tenho interesse em conhecer um pouco do desenvolvimento Front-end.
 
-💭 Os repositórios de cursos tem muitos erros, mas eles me ajudaram na minha evolução. 
+💭 Os repositórios de cursos tem muitos erros, mas eles ajudaram na minha evolução. 
 ##
 <div>
   <a href="https://github.com/ClaudioChagas">
