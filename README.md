@@ -12,7 +12,8 @@ Tenho conhecimentos em python, e tenho interesse em conhecer um pouco do desenvo
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Claudio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Claudio-HTML" height="30" width="40" src="https://img.icons8.com/wired/64/000000/html-5.png"/>
+ <img align="center" alt="Claudio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Claudio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   </div>
   
