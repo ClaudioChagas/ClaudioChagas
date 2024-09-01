@@ -1,6 +1,5 @@
 ###   Olá! Muito prazer 🙋‍♂️
---> Meu nome é Claudio Chagas, e sou novo no mundo das tecnologias. São tantas possibilidades, mas sempre busco aprender coisas novas e continuar em constante crescimento pessoal e profissional, sem me perder de mim mesmo.
-
+--> Meu nome é Claudio Chagas, sou estudante de computação, e trabalho gerenciando serviços de TI.
 
 💭 Os repositórios de cursos tem muitos erros, mas eles ajudaram na minha evolução. 
 ##
